@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="seperate_singleCalibrate" targetName="seperate_singleCalibrate" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8554ddb6-a4ea-4527-9df1-9cc771604499" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1TxnSdFNak8jqJKCbLEimLYBuCw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.seperate_singleCalibrate">
+    <configuration name="realtimeFaceDect" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="in_VID5.xml" PASS_PARENT_ENVS_2="true" PROJECT_NAME="seperate_singleCalibrate" TARGET_NAME="realtimeFaceDect" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="seperate_singleCalibrate" RUN_TARGET_NAME="realtimeFaceDect">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="seperate_singleCalibrate" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="$PROJECT_DIR$/in_VID5.xml" PASS_PARENT_ENVS_2="true" PROJECT_NAME="seperate_singleCalibrate" TARGET_NAME="seperate_singleCalibrate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="seperate_singleCalibrate" RUN_TARGET_NAME="seperate_singleCalibrate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.realtimeFaceDect" />
+      <item itemvalue="CMake Application.seperate_singleCalibrate" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8554ddb6-a4ea-4527-9df1-9cc771604499" name="Default Changelist" comment="" />
+      <created>1574410614340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574410614340</updated>
+      <workItem from="1574410615717" duration="3704000" />
+      <workItem from="1574750687446" duration="1905000" />
+      <workItem from="1575182172965" duration="1657000" />
+      <workItem from="1575697869804" duration="6610000" />
+      <workItem from="1575706377018" duration="9002000" />
+      <workItem from="1575770376784" duration="561000" />
+      <workItem from="1576483517197" duration="2607000" />
+      <workItem from="1580886036789" duration="61000" />
+      <workItem from="1580886179585" duration="785000" />
+      <workItem from="1581304650753" duration="347000" />
+      <workItem from="1581410895628" duration="44000" />
+      <workItem from="1581480961588" duration="1226000" />
+      <workItem from="1581548417905" duration="216000" />
+      <workItem from="1581742752239" duration="93000" />
+      <workItem from="1581751773969" duration="9239000" />
+      <workItem from="1581832547435" duration="4830000" />
+      <workItem from="1581845667449" duration="8954000" />
+      <workItem from="1581913771683" duration="3462000" />
+      <workItem from="1581926223419" duration="354000" />
+      <workItem from="1581931572140" duration="706000" />
+      <workItem from="1581952344967" duration="907000" />
+      <workItem from="1581953594998" duration="1006000" />
+      <workItem from="1582084853139" duration="1662000" />
+      <workItem from="1582163327290" duration="2883000" />
+      <workItem from="1582196886976" duration="617000" />
+      <workItem from="1582359536311" duration="8000" />
+      <workItem from="1582366502596" duration="614000" />
+      <workItem from="1582544203027" duration="3510000" />
+      <workItem from="1582549399505" duration="883000" />
+      <workItem from="1582627078175" duration="1959000" />
+      <workItem from="1583462244297" duration="731000" />
+      <workItem from="1585119276609" duration="125000" />
+      <workItem from="1600317895104" duration="1462000" />
+      <workItem from="1600319490004" duration="4121000" />
+      <workItem from="1601286767367" duration="163000" />
+      <workItem from="1601570020100" duration="5044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1807" height="138" key="GridCell.Tab.0.bottom" timestamp="1600323201809">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="138" key="GridCell.Tab.0.bottom/67.27.1853.1173@67.27.1853.1173" timestamp="1600323201809" />
+    <state width="1807" height="138" key="GridCell.Tab.0.center" timestamp="1600323201808">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="138" key="GridCell.Tab.0.center/67.27.1853.1173@67.27.1853.1173" timestamp="1600323201808" />
+    <state width="1807" height="138" key="GridCell.Tab.0.left" timestamp="1600323201808">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="138" key="GridCell.Tab.0.left/67.27.1853.1173@67.27.1853.1173" timestamp="1600323201808" />
+    <state width="1807" height="138" key="GridCell.Tab.0.right" timestamp="1600323201809">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="138" key="GridCell.Tab.0.right/67.27.1853.1173@67.27.1853.1173" timestamp="1600323201809" />
+  </component>
+</project>

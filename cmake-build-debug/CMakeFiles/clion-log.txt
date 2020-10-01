@@ -1,0 +1,31 @@
+/home/liangxiao/software/clion-2019.2.5/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/liangxiao/XIMEA/package/samples/xiAPIplusOpenCV/seperate_singleCalibrate
+-- Found OpenCV: /usr/local (found version "3.4.8") 
+CMake Warning (dev) at /home/liangxiao/XIMEA/package/samples/_libs/_cmake/add_opencv.cmake:12 (link_directories):
+  This command specifies the relative path
+
+    $(OPENCV_DIR)/lib
+
+  as a link directory.
+
+  Policy CMP0015 is not set: link_directories() treats paths relative to the
+  source dir.  Run "cmake --help-policy CMP0015" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+Call Stack (most recent call first):
+  CMakeLists.txt:16 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+CMake Warning (dev) in CMakeLists.txt:
+  Policy CMP0081 is not set: Relative paths not allowed in LINK_DIRECTORIES
+  target property.  Run "cmake --help-policy CMP0081" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Found relative path while evaluating link directories of
+  "seperate_singleCalibrate":
+
+    "$(OPENCV_DIR)/lib"
+
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Generating done
+-- Build files have been written to: /home/liangxiao/XIMEA/package/samples/xiAPIplusOpenCV/seperate_singleCalibrate/cmake-build-debug
